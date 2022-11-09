@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SaiMounicaChv (Masters in Computer Science with Data Science Certification)
 - 👀 I’m interested in ... Machine Learning, Data Science, Data Analysis, Image Analysis
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... Machine Learning
+- 📫 How to reach me ... saimounicachv@gmial.com
 
 <!---
 SaiMounicaChv/SaiMounicaChv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
